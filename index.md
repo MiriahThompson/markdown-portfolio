@@ -4,11 +4,4 @@ layout: default
 
 {% include 01-name.md %}
 
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+[Image of Sonic the hedgehog] (https://images-na.ssl-images-amazon.com/images/I/81Sshf4p-OL._SL1500_.jpg)
